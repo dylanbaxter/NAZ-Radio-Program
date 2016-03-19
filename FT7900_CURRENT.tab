@@ -1,0 +1,185 @@
+Channel Number	Receive Frequency	Transmit Frequency	Offset Frequency	Offset Direction	Operating Mode	Name	Show Name	Tone Mode	CTCSS Tone	DCS Code	Step	Clock Shift	Tx Power	Narrow	Bank 1	Bank 2	Bank 3	Bank 4	Bank 5	Bank 6	Bank 7	Bank 8	Bank 9	Bank 10	Bank 11	Bank 12	Bank 13	Bank 14	Bank 15	Bank 16	Bank 17	Bank 18	Bank 19	Bank 20	Comment
+1	145.21000	144.61000	600 kHz	Minus	FM	JACKS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+2	145.27000	144.67000	600 kHz	Minus	FM	ALPINE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+3	145.39000	144.79000	600 kHz	Minus	FM	GUTHRI	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+4	145.41000	144.81000	600 kHz	Minus	FM	PINAL	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+5	146.64000	146.04000	600 kHz	Minus	FM	BANK O	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+6	146.68000	146.08000	600 kHz	Minus	FM	SMITH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+7	146.72000	146.12000	600 kHz	Minus	FM	LINK G	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+8	146.76000	146.16000	600 kHz	Minus	FM	SCOTTS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+9	146.92000	146.32000	600 kHz	Minus	FM	MT ORD	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+10	146.94000	146.34000	600 kHz	Minus	FM	WHITE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+11	146.94000	146.34000	600 kHz	Minus	FM	FT THO	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+12	146.70000	146.10000	600 kHz	Minus	FM	GREENS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+13	146.86000	146.26000	600 kHz	Minus	FM	HELIOG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+14	146.90000	146.30000	600 kHz	Minus	FM	HELIOG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+15	146.98000	146.38000	600 kHz	Minus	FM	MT ELD	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+16	147.14000	147.74000	600 kHz	Plus	FM	LINK M	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+17	147.16000	146.56000	600 kHz	Minus	FM	MT LEM	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+18	147.20000	147.80000	600 kHz	Plus	FM	LINK P	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+19	147.24000	147.84000	600 kHz	Plus	FM	SHAW B	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+20	147.28000	146.68000	600 kHz	Minus	FM	GUTHRI	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+21	147.36000	147.96000	600 kHz	Plus	FM	LINK M	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+22	224.68000	223.08000	1.60 MHz	Minus	FM	BILTMO	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+23	224.90000	223.30000	1.60 MHz	Minus	FM	SHAW B	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+24	440.65000	445.65000	5.00 MHz	Plus	FM	HELIOG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+25	440.70000	445.70000	5.00 MHz	Plus	FM	HELIOG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+26	441.62500	446.62500	5.00 MHz	Plus	FM	SCOTTS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+27	441.72500	446.72500	5.00 MHz	Plus	FM	WHITE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+28	442.12500	447.12500	5.00 MHz	Plus	FM	LINK S	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+29	442.15000	447.15000	5.00 MHz	Plus	FM	LINK M	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+30	442.27500	447.27500	5.00 MHz	Plus	FM	LINK W	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+31	443.77500	448.77500	5.00 MHz	Plus	FM	SMITH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+32	444.30000	449.30000	5.00 MHz	Plus	FM	BANK O	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+33	444.50000	449.50000	5.00 MHz	Plus	FM	MT ORD	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+34	447.82500	452.82500	5.00 MHz	Plus	FM	HELIOG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+35	448.37500	443.37500	5.00 MHz	Minus	FM	LINK G	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+36	448.47500	443.47500	5.00 MHz	Minus	FM	MT ELD	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+37	448.87500	443.87500	5.00 MHz	Minus	FM	MT ELD	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+38	449.17500	454.17500	5.00 MHz	Plus	FM	TOWERS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+39	449.52500	444.52500	5.00 MHz	Minus	FM	SHAW B	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+40	449.62500	444.62500	5.00 MHz	Minus	FM	BILTMO	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+41	147.24000	147.84000	600 kHz	Plus	FM	MONUME	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+42	147.12000	147.72000	600 kHz	Plus	FM	BLACK	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+43	147.12000	147.72000	600 kHz	Plus	FM	SMITH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+44	441.72500	446.72500	5.00 MHz	Plus	FM	WHITE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+45	449.18000	444.18000	5.00 MHz	Minus	FM	MONUME	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+46	146.94000	146.34000	600 kHz	Minus	FM	WHITE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+47	146.68000	146.68000	600 kHz	Simplex	FM	SMITH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+48	146.94000	146.94000	600 kHz	Simplex	FM	WHITE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+49	441.72500	441.72500	5.00 MHz	Simplex	FM	WHITE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+50	446.75000	446.75000	5.00 MHz	Simplex	FM	MONUME	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+51	147.12000	147.12000	600 kHz	Simplex	FM	BLACK	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+52	147.24000	147.24000	600 kHz	Simplex	FM	MONUME	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+53	145.47000	145.47000	600 kHz	Simplex	FM	"CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+54	145.49000	145.49000	600 kHz	Simplex	FM	"UTAH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+55	146.61000	146.61000	600 kHz	Simplex	FM	"ABAJO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+56	146.64000	146.64000	600 kHz	Simplex	FM	"ST3 G	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+57	146.68000	146.68000	600 kHz	Simplex	FM	"BUMBL	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+58	146.70000	146.70000	600 kHz	Simplex	FM	"ST3 G	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+59	146.72000	146.72000	600 kHz	Simplex	FM	"SPENC	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+60	146.74000	146.74000	600 kHz	Simplex	FM	ST3 GE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+61	146.76000	146.76000	600 kHz	Simplex	FM	BALD M	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+62	146.76000	146.76000	600 kHz	Simplex	FM	IRON M	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+63	146.80000	146.80000	600 kHz	Simplex	FM	BLOWHA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+64	146.82000	146.82000	600 kHz	Simplex	FM	UTAH H	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+65	146.88000	146.88000	600 kHz	Simplex	FM	KANAB	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+66	146.90000	146.90000	600 kHz	Simplex	FM	MOAB	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+67	146.91000	146.91000	600 kHz	Simplex	FM	SEEGMI	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+68	146.94000	146.94000	600 kHz	Simplex	FM	FRISCO	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+69	146.96000	146.96000	600 kHz	Simplex	FM	NAVAJO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+70	146.98000	146.98000	600 kHz	Simplex	FM	CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+71	147.06000	147.06000	600 kHz	Simplex	FM	CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+72	147.08000	147.08000	600 kHz	Simplex	FM	MT ELL	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+73	147.16000	147.16000	600 kHz	Simplex	FM	MT DUT	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+74	147.26000	147.26000	600 kHz	Simplex	FM	HICKLE	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+75	147.26000	147.26000	600 kHz	Simplex	FM	ST GEO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+76	147.30000	147.30000	600 kHz	Simplex	FM	JACOBS	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+77	147.36000	147.36000	600 kHz	Simplex	FM	CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+78	147.36000	147.36000	600 kHz	Simplex	FM	KANAB	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+79	147.38000	147.38000	600 kHz	Simplex	FM	DELTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+80	447.10000	447.10000	5.00 MHz	Simplex	FM	ABAJO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+81	448.10000	448.10000	5.00 MHz	Simplex	FM	CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+82	448.40000	448.40000	5.00 MHz	Simplex	FM	CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+83	448.50000	448.50000	5.00 MHz	Simplex	FM	KOLOB	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+84	448.72500	448.72500	5.00 MHz	Simplex	FM	SCRUB	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+85	448.75000	448.75000	5.00 MHz	Simplex	FM	NAVAJO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+86	449.32500	449.32500	5.00 MHz	Simplex	FM	SEEGMI	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+87	449.35000	449.35000	5.00 MHz	Simplex	FM	ST GEO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+88	449.42500	449.42500	5.00 MHz	Simplex	FM	ST GEO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+89	449.50000	449.50000	5.00 MHz	Simplex	FM	IRON M	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+90	449.52500	449.52500	5.00 MHz	Simplex	FM	WINCHE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+91	449.70000	449.70000	5.00 MHz	Simplex	FM	SCHMUT	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+92	449.72500	449.72500	5.00 MHz	Simplex	FM	BLACK	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+93	449.75000	449.75000	5.00 MHz	Simplex	FM	UTAH H	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+94	449.85000	449.85000	5.00 MHz	Simplex	FM	KANAB	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+95	449.90000	449.90000	5.00 MHz	Simplex	FM	CEDAR	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+96	449.90000	449.90000	5.00 MHz	Simplex	FM	MEXICA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+97	449.92500	449.92500	5.00 MHz	Simplex	FM	NAVAJO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+98	145.27000	145.27000	600 kHz	Simplex	FM	CHRIST	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+99	145.39000	145.39000	600 kHz	Simplex	FM	BLACK	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+100	146.79000	146.79000	600 kHz	Simplex	FM	APEX M	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+101	147.06000	147.06000	600 kHz	Simplex	FM	APEX M	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+102	147.09000	147.09000	600 kHz	Simplex	FM	BLACK	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+103	147.21000	147.21000	600 kHz	Simplex	FM	BOULDE	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+104	147.24000	147.24000	600 kHz	Simplex	FM	HENDER	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+105	147.30000	147.30000	600 kHz	Simplex	FM	CHRIST	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+106	147.39000	147.39000	600 kHz	Simplex	FM	BEACON	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+107	224.88000	224.88000	1.60 MHz	Simplex	FM	MT3 HU	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+108	447.00000	447.00000	5.00 MHz	Simplex	FM	FRENCH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+109	447.30000	447.30000	5.00 MHz	Simplex	FM	"LAKE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+110	447.32500	447.32500	5.00 MHz	Simplex	FM	FRENCH	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+111	449.30000	449.30000	5.00 MHz	Simplex	FM	HENDER	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+112	449.67500	449.67500	5.00 MHz	Simplex	FM	SUNRIS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+113	449.67500	449.67500	5.00 MHz	Simplex	FM	APEX M	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+114	145.12000	145.12000	600 kHz	Simplex	FM	SE SAN	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+115	145.20000	145.20000	600 kHz	Simplex	FM	PALM S	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+116	145.28000	145.28000	600 kHz	Simplex	FM	SE SAN	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+117	145.34000	145.34000	600 kHz	Simplex	FM	BORREG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+118	145.36000	145.36000	600 kHz	Simplex	FM	MT OTA	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+119	145.38000	145.38000	600 kHz	Simplex	FM	CHUCKW	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+120	145.44000	145.44000	600 kHz	Simplex	FM	IRLP #	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+121	145.48000	145.48000	600 kHz	Simplex	FM	IRLP #	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+122	146.02500	146.02500	600 kHz	Simplex	FM	COACHU	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+123	146.08500	146.08500	600 kHz	Simplex	FM	ANZA B	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+124	146.26500	146.26500	600 kHz	Simplex	FM	LYONS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+125	146.35500	146.35500	600 kHz	Simplex	FM	CHUCKW	Show Name	Enc-Dec	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+126	146.64000	146.64000	600 kHz	Simplex	FM	MT OTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+127	146.67000	146.67000	600 kHz	Simplex	FM	SUPERS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+128	146.70000	146.70000	600 kHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+129	146.73000	146.73000	600 kHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+130	146.88000	146.88000	600 kHz	Simplex	FM	GLAMIS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+131	146.91000	146.91000	600 kHz	Simplex	FM	MT OTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+132	146.89500	146.89500	600 kHz	Simplex	FM	PINE C	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+133	146.92500	146.92500	600 kHz	Simplex	FM	SANTIA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+134	146.92500	146.92500	600 kHz	Simplex	FM	MT OTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+135	146.94000	146.94000	600 kHz	Simplex	FM	EDOM H	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+136	147.00000	147.00000	600 kHz	Simplex	FM	BLYTHE	Show Name	Enc-Dec	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+137	147.03000	147.03000	600 kHz	Simplex	FM	DESERT	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+138	147.03000	147.03000	600 kHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+139	147.07500	147.07500	600 kHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+140	147.09000	147.09000	600 kHz	Simplex	FM	BLYTHE	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+141	147.12000	147.12000	600 kHz	Simplex	FM	BLACK	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+142	147.13000	147.13000	600 kHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+143	147.15000	147.15000	600 kHz	Simplex	FM	MT LAG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+144	147.17500	147.17500	600 kHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+145	147.24000	147.24000	600 kHz	Simplex	FM	MONUME	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+146	147.91500	147.91500	600 kHz	Simplex	FM	MT EDN	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+147	223.94000	223.94000	1.60 MHz	Simplex	FM	LYONS	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+148	224.18000	224.18000	1.60 MHz	Simplex	FM	TORO P	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+149	224.38000	224.38000	1.60 MHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+150	224.82000	224.82000	1.60 MHz	Simplex	FM	SANTIA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+151	445.64000	445.64000	5.00 MHz	Simplex	FM	EDOM H	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+152	445.68000	445.68000	5.00 MHz	Simplex	FM	PALM S	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+153	446.40000	446.40000	5.00 MHz	Simplex	FM	PALOMA	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+154	446.64000	446.64000	5.00 MHz	Simplex	FM	SANTIA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+155	446.64000	446.64000	5.00 MHz	Simplex	FM	PALM D	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+156	446.75000	446.75000	5.00 MHz	Simplex	FM	MONUME	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+157	447.00000	447.00000	5.00 MHz	Simplex	FM	SO PAL	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+158	447.32000	447.32000	5.00 MHz	Simplex	FM	EDOM H	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+159	447.44000	447.44000	5.00 MHz	Simplex	FM	MT OTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+160	447.48000	447.48000	5.00 MHz	Simplex	FM	PINE C	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+161	447.48000	447.48000	5.00 MHz	Simplex	FM	EDOM H	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+162	447.58000	447.58000	5.00 MHz	Simplex	FM	CHIRIA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+163	447.58000	447.58000	5.00 MHz	Simplex	FM	MT SAN	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+164	447.64000	447.64000	5.00 MHz	Simplex	FM	MT OTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+165	448.06000	448.06000	5.00 MHz	Simplex	FM	SANTIA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+166	448.90000	448.90000	5.00 MHz	Simplex	FM	SANTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+167	449.08000	449.08000	5.00 MHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+168	449.16000	449.16000	5.00 MHz	Simplex	FM	JAMUL	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+169	449.18000	449.18000	5.00 MHz	Simplex	FM	MONUME	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+170	449.20000	449.20000	5.00 MHz	Simplex	FM	MT LAG	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+171	449.28000	449.28000	5.00 MHz	Simplex	FM	PINE C	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+172	449.30000	449.30000	5.00 MHz	Simplex	FM	PALOMA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+173	449.50000	449.50000	5.00 MHz	Simplex	FM	MT OTA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+174	449.70000	449.70000	5.00 MHz	Simplex	FM	PALM S	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+175	449.98000	449.98000	5.00 MHz	Simplex	FM	MT OTA	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+176	147.22000	146.62000	600 kHz	Minus	FM	DEZA B	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+177	147.04000	146.44000	600 kHz	Minus	FM	DAVENP	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+178	147.36000	146.76000	600 kHz	Minus	FM	FRISCO	Show Name	None	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+179	147.14000	146.54000	600 kHz	Minus	FM	LUERA	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+180	145.17000	144.57000	600 kHz	Minus	FM	JACK?S	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+181	147.02000	146.42000	600 kHz	Minus	FM	LITTLE	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+182	146.66000	146.06000	600 kHz	Minus	FM	MT TAY	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+183	146.94000	146.34000	600 kHz	Minus	FM	MT TAY	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	
+184	146.64000	146.64000	600 kHz	Simplex	FM	MT TAY	Show Name	Enc	100.0	023	5 kHz	Off	High	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	

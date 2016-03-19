@@ -1,0 +1,194 @@
+Channel Number	Receive Frequency	Transmit Frequency	Offset Frequency	Offset Direction	Operating Mode	Name	Tone Mode	CTCSS	DCS	Tx Power	Skip	Step	Mask	Clock Shift	Half Dev	Bank 1	Bank 2	Bank 3	Bank 4	Bank 5	Bank 6	Bank 7	Bank 8	Bank 9	Comment	Icon	
+1	145.17000	144.57000	600 kHz	Minus	FM	PortRpt	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+2	145.21000	144.61000	600 kHz	Minus	FM	JacksPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+3	145.27000	144.67000	600 kHz	Minus	FM	SouthMtn	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+4	145.39000	144.79000	600 kHz	Minus	FM	GuthriPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+5	145.41000	144.81000	600 kHz	Minus	FM	PinalPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+6	146.64000	146.04000	600 kHz	Minus	FM	BankOne	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+7	146.68000	146.08000	600 kHz	Minus	FM	SmithPk	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+8	146.72000	146.12000	600 kHz	Minus	FM	GreensPk	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+9	146.76000	146.16000	600 kHz	Minus	FM	Scotsdal	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+10	146.92000	146.32000	600 kHz	Minus	FM	Mt Ord	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+11	146.94000	146.34000	600 kHz	Minus	FM	WtTnksMt	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+12	146.94000	146.34000	600 kHz	Minus	FM	FtThomas	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+13	146.70000	146.10000	600 kHz	Minus	FM	GreensPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+14	146.86000	146.26000	600 kHz	Minus	FM	HliogfPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+15	146.90000	146.30000	600 kHz	Minus	FM	HliogfPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+16	146.98000	146.38000	600 kHz	Minus	FM	Mt Elden	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+17	147.14000	147.74000	600 kHz	Plus	FM	EldenLNK	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+18	147.16000	146.56000	600 kHz	Minus	FM	MtLemmon	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+19	147.20000	147.80000	600 kHz	Plus	FM	PinalLNK	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+20	147.24000	147.84000	600 kHz	Plus	FM	ShawButt	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+21	147.28000	146.68000	600 kHz	Minus	FM	GuthriPk	Tone	141.3 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+22	147.36000	147.96000	600 kHz	Plus	FM	MtOrdLNK	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+23	224.68000	223.08000	1.60 MHz	Minus	FM	Biltmore	Tone	156.7 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+24	224.90000	223.30000	1.60 MHz	Minus	FM	ShawButt	Tone	156.7 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+25	440.65000	445.65000	5.00 MHz	Plus	FM	HliogfPk	Tone	141.3 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+26	440.70000	445.70000	5.00 MHz	Plus	FM	HliogfPk	Tone	141.3 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+27	441.62500	446.62500	5.00 MHz	Plus	FM	Sctsdale	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+28	441.72500	446.72500	5.00 MHz	Plus	FM	WtTnksMt	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+29	442.12500	447.12500	5.00 MHz	Plus	FM	SMtnLNK	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+30	442.15000	447.15000	5.00 MHz	Plus	FM	MingsLNK	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+31	442.27500	447.27500	5.00 MHz	Plus	FM	WtTnksLN	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+32	443.77500	448.77500	5.00 MHz	Plus	FM	W7ARA	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+33	444.30000	449.30000	5.00 MHz	Plus	FM	W7ARA	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+34	444.50000	449.50000	5.00 MHz	Plus	FM	W7MDY	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+35	447.82500	452.82500	5.00 MHz	Plus	FM	HliogfPk	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+36	448.37500	443.37500	5.00 MHz	Minus	FM	W7ARA	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+37	448.47500	443.47500	5.00 MHz	Minus	FM	W7ARA	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+38	448.87500	443.87500	5.00 MHz	Minus	FM	W7ARA	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+39	449.17500	454.17500	5.00 MHz	Plus	FM	WB7EVI	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+40	449.52500	444.52500	5.00 MHz	Minus	FM	W7ARA	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+41	449.62500	444.62500	5.00 MHz	Minus	FM	Biltmore	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+42	927.16250	902.16250	 	Minus	FM	W7ARA	Tone	151.4 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+43	927.33750	902.33750	 	Minus	FM	W7ARA	Tone	151.4 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+44	927.41250	902.41250	 	Minus	FM	W7ARA	Tone	151.4 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+45	147.24000	147.84000	600 kHz	Plus	FM	KA6DAC	Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+46	147.12000	147.72000	600 kHz	Plus	FM	WM6Z	Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+47	147.12000	147.72000	600 kHz	Plus	FM	K7LKL	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+48	441.72500	446.72500	5.00 MHz	Plus	FM	W7EX	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+49	449.18000	444.18000	5.00 MHz	Minus	FM	N6LVR	Tone	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+50	146.94000	146.34000	600 kHz	Minus	FM	W7EX	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+51	146.68000	146.68000	 	Simplex	FM	K7LKL	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+52	146.94000	146.94000	 	Simplex	FM	W7EX	Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+53	441.72500	441.72500	 	Simplex	FM	W7EX	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+54	446.75000	446.75000	 	Simplex	FM	KA6DAC	Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+55	147.12000	147.12000	 	Simplex	FM	WM6Z	Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+56	147.24000	147.24000	 	Simplex	FM	KA6DAC	Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+57	927.33750	927.33750	 	Simplex	FM	W7ARA	Tone	151.4 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+58	145.47000	145.47000	 	Simplex	FM	WV7H	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+59	145.49000	145.49000	 	Simplex	FM	W7DRC	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+60	146.61000	146.61000	 	Simplex	FM	K7SDC	Tone	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+61	146.64000	146.64000	 	Simplex	FM	W7RDC	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+62	146.68000	146.68000	 	Simplex	FM	K7ZAR	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+63	146.70000	146.70000	 	Simplex	FM	KA7STK	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+64	146.72000	146.72000	 	Simplex	FM	W7NRC	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+65	146.74000	146.74000	 	Simplex	FM	NR7K	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+66	146.76000	146.76000	 	Simplex	FM	K7QEQ	Tone	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+67	146.76000	146.76000	 	Simplex	FM	K7JH	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+68	146.80000	146.80000	 	Simplex	FM	WV7H GBM	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+69	146.82000	146.82000	 	Simplex	FM	NR7K	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+70	146.88000	146.88000	 	Simplex	FM	W7NRC	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+71	146.90000	146.90000	 	Simplex	FM	K7QEQ	Tone	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+72	146.91000	146.91000	 	Simplex	FM	NR7K	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+73	146.94000	146.94000	 	Simplex	FM	WR7AAA	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+74	146.96000	146.96000	 	Simplex	FM	W7DRR	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+75	146.98000	146.98000	 	Simplex	FM	N7KM	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+76	147.06000	147.06000	 	Simplex	FM	N7DZP	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+77	147.08000	147.08000	 	Simplex	FM	K7SDC	Tone	136.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+78	147.16000	147.16000	 	Simplex	FM	N7NKK	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+79	147.26000	147.26000	 	Simplex	FM	N7WPF	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+80	147.26000	147.26000	 	Simplex	FM	K7SG	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+81	147.30000	147.30000	 	Simplex	FM	WI7M	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+82	147.36000	147.36000	 	Simplex	FM	W7KBM	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+83	147.36000	147.36000	 	Simplex	FM	WI7M	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+84	147.38000	147.38000	 	Simplex	FM	KB7WQD	Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+85	447.10000	447.10000	 	Simplex	FM	N0NHL	Tone	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+86	448.10000	448.10000	 	Simplex	FM	N7DZP	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+87	448.40000	448.40000	 	Simplex	FM	N7BO	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+88	448.50000	448.50000	 	Simplex	FM	K7WS	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+89	448.72500	448.72500	 	Simplex	FM	WB6TNP	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+90	448.75000	448.75000	 	Simplex	FM	NA7DB	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+91	449.32500	449.32500	 	Simplex	FM	NR7K	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+92	449.35000	449.35000	 	Simplex	FM	KI2U	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+93	449.42500	449.42500	 	Simplex	FM	KA7STK	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+94	449.50000	449.50000	 	Simplex	FM	WA7GTU	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+95	449.52500	449.52500	 	Simplex	FM	KA7STK	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+96	449.70000	449.70000	 	Simplex	FM	K7SG	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+97	449.72500	449.72500	 	Simplex	FM	KD7YK	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+98	449.75000	449.75000	 	Simplex	FM	W7AOR	Tone	123.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+99	449.85000	449.85000	 	Simplex	FM	W7NRC	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+100	449.90000	449.90000	 	Simplex	FM	WA7GTU	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+101	449.90000	449.90000	 	Simplex	FM	KD7HLL	Tone	123.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+102	449.92500	449.92500	 	Simplex	FM	W7CWI	None	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+103	145.27000	145.27000	 	Simplex	FM	N7SKO	Tone	131.8 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+104	145.39000	145.39000	 	Simplex	FM	W7IZU	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+105	146.79000	146.79000	 	Simplex	FM	W7IVK	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+106	147.06000	147.06000	 	Simplex	FM	KC7TMC	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+107	147.09000	147.09000	 	Simplex	FM	N7OK	Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+108	147.21000	147.21000	 	Simplex	FM	WB7DRJ	None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+109	147.24000	147.24000	 	Simplex	FM	W7IVK	Tone	146.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+110	147.30000	147.30000	 	Simplex	FM	KC6TZB	Tone	156.7 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+111	147.39000	147.39000	 	Simplex	FM		None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+112	224.88000	224.88000	 	Simplex	FM	WB6RUF	Tone	156.7 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+113	447.00000	447.00000	 	Simplex	FM	W7AOR	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+114	447.30000	447.30000	 	Simplex	FM	KG7SS	Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+115	447.32500	447.32500	 	Simplex	FM	N7SGV	Tone	127.3 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+116	449.30000	449.30000	 	Simplex	FM	N7YOR	Tone	167.9 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+117	449.67500	449.67500	 	Simplex	FM	WA7CYC	Tone	167.9 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+118	449.67500	449.67500	 	Simplex	FM	WA7CYC	Tone	192.8 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+119	927.31250	927.31250	 	Simplex	FM	KA3IDN	None	88.5 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+120	927.46250	927.46250	 	Simplex	FM	KA3IDN	Tone	151.4 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+121	52.68000	52.68000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+122	145.12000	145.12000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+123	145.20000	145.20000	 	Simplex	FM		Tone	131.8 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+124	145.28000	145.28000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+125	145.34000	145.34000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+126	145.36000	145.36000	 	Simplex	FM		None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+127	145.38000	145.38000	 	Simplex	FM		Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+128	145.44000	145.44000	 	Simplex	FM	N6USO	Tone	136.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+129	145.48000	145.48000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+130	146.02500	146.02500	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+131	146.08500	146.08500	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+132	146.26500	146.26500	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+133	146.35500	146.35500	 	Simplex	FM		Tone	203.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+134	146.64000	146.64000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+135	146.67000	146.67000	 	Simplex	FM		Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+136	146.70000	146.70000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+137	146.73000	146.73000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+138	146.88000	146.88000	 	Simplex	FM		Tone	162.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+139	146.91000	146.91000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+140	146.89500	146.89500	 	Simplex	FM		Tone	118.8 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+141	146.92500	146.92500	 	Simplex	FM		Tone	114.8 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+142	146.92500	146.92500	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+143	146.94000	146.94000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+144	147.00000	147.00000	 	Simplex	FM		Tone	203.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+145	147.03000	147.03000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+146	147.03000	147.03000	 	Simplex	FM		Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+147	147.07500	147.07500	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+148	147.09000	147.09000	 	Simplex	FM		None	88.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+149	147.12000	147.12000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+150	147.13000	147.13000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+151	147.15000	147.15000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+152	147.17500	147.17500	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+153	147.24000	147.24000	 	Simplex	FM		Tone	103.5 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+154	147.91500	147.91500	 	Simplex	FM		Tone	123.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+155	223.94000	223.94000	 	Simplex	FM		Tone	141.3 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+156	224.18000	224.18000	 	Simplex	FM		Tone	156.7 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+157	224.38000	224.38000	 	Simplex	FM		Tone	107.2 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+158	224.82000	224.82000	 	Simplex	FM		Tone	156.7 Hz	023	Low	Off	20 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+159	445.64000	445.64000	 	Simplex	FM		Tone	131.8 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+160	445.68000	445.68000	 	Simplex	FM		Tone	123.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+161	446.40000	446.40000	 	Simplex	FM		Tone	67.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+162	446.64000	446.64000	 	Simplex	FM		Tone	151.4 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+163	446.64000	446.64000	 	Simplex	FM		Tone	141.3 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+164	446.75000	446.75000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+165	447.00000	447.00000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+166	447.32000	447.32000	 	Simplex	FM		Tone	131.8 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+167	447.44000	447.44000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+168	447.48000	447.48000	 	Simplex	FM		Tone	156.7 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+169	447.48000	447.48000	 	Simplex	FM		Tone	141.3 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+170	447.58000	447.58000	 	Simplex	FM		Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+171	447.58000	447.58000	 	Simplex	FM		Tone	123.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+172	447.64000	447.64000	 	Simplex	FM		Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+173	448.06000	448.06000	 	Simplex	FM		Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+174	448.90000	448.90000	 	Simplex	FM		Tone	123.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+175	449.08000	449.08000	 	Simplex	FM		Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+176	449.16000	449.16000	 	Simplex	FM		Tone	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+177	449.18000	449.18000	 	Simplex	FM		Tone	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+178	449.20000	449.20000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+179	449.28000	449.28000	 	Simplex	FM		Tone	123.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+180	449.30000	449.30000	 	Simplex	FM		Tone	100.0 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+181	449.50000	449.50000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+182	449.70000	449.70000	 	Simplex	FM		Tone	107.2 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+183	449.98000	449.98000	 	Simplex	FM		Tone	88.5 Hz	023	High	Off	25 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+184	927.51250	927.51250	 	Simplex	FM		Tone	123.0 Hz	023	High	Off	12.5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+185	147.22000	146.62000	600 kHz	Minus	FM		Tone	67.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+186	147.04000	146.44000	600 kHz	Minus	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+187	147.36000	146.76000	600 kHz	Minus	FM		Tone	67.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+188	147.14000	146.54000	600 kHz	Minus	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+189	145.17000	144.57000	600 kHz	Minus	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+190	147.02000	146.42000	600 kHz	Minus	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+191	146.66000	146.06000	600 kHz	Minus	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+192	146.94000	146.34000	600 kHz	Minus	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
+193	146.64000	146.64000	 	Simplex	FM		Tone	100.0 Hz	023	High	Off	5 kHz	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off	Off		1	
